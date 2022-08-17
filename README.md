@@ -1,5 +1,7 @@
 # Coding Quiz
 
+https://eddie-m11.github.io/Coding-Quiz/
+
 ## Description
 
 The following project was made to test a little amount of you knowledge about coding
